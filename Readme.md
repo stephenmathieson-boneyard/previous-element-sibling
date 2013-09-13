@@ -1,7 +1,7 @@
 
 # previous-element-sibling
 
-  Element#previousElementSibling for legacy browsers
+  [Element#previousElementSibling](https://developer.mozilla.org/en-US/docs/Web/API/ElementTraversal.previousElementSibling?redirect=no) for legacy browsers
 
 ## Installation
 
@@ -11,7 +11,9 @@
 
 ## API
 
+### `previous-element-sibling(element)`
 
+  Get the given `element`'s previous element sibling
 
 ## License
 
