@@ -2,8 +2,8 @@
   "name": "previous-element-sibling",
   "repo": "stephenmathieson/previous-element-sibling",
   "description": "Element#previousElementSibling for legacy browsers",
-  "version": "0.0.1",
-  "keywords": [],
+  "version": "0.1.0",
+  "keywords": [ "element", "legacy", "previous", "sibling" ],
   "dependencies": {},
   "development": {
     "component/assert": "*"
