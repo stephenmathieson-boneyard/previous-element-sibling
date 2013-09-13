@@ -1,0 +1,10 @@
+{
+  "name": "previous-element-sibling",
+  "version": "0.0.0",
+  "private": true,
+  "devDependencies": {
+    "mocha-phantomjs": "~3.1.2",
+    "phantomjs": "~1.9.2-0",
+    "mocha": "~1.12.1"
+  }
+}
