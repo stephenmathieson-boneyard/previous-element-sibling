@@ -1,4 +1,3 @@
-
 module.exports = previous;
 
 
@@ -6,8 +5,8 @@ module.exports = previous;
  * Get the previous element sibling of the given `element`
  *
  * @api public
- * @param {[HTMLElement} element
- * @return {[HTMLElement}
+ * @param {HTMLElement} element
+ * @return {HTMLElement}
  */
 
 function previous(element) {
